@@ -11,3 +11,7 @@ Data transaksi riil yang digunakan dalam penelitian.
 [skrip_preprocessing_python.py](https://github.com/user-attachments/files/28813509/skrip_preprocessing_python.py)
 
 Skrip untuk membersihkan data dan binarisasi.
+
+[DATA TRANSAKSI FINAL.xlsx](https://github.com/user-attachments/files/28815725/DATA.TRANSAKSI.FINAL.xlsx)
+
+Data hasil pembersihan dan binarisasi 
